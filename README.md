@@ -1,8 +1,43 @@
-# universalLanguage
-A first attempt at creating a Universal Language
+# Universal Language Project
+
+This project aims to develop a constructed language that can serve as a universal means of communication worldwide. All are welcome to contribute!
+
+## Design Goals
+
+- Simplicity - Easy to learn and use for people of all ages and backgrounds
+- Inclusiveness - Reflect concepts and terminology from all cultures and regions
+- Evolving Vocabulary - Ability to incorporate new terms through community process
+- Accessibility - Resources available in multiple languages to lower barriers
+
+## Current Status
+
+We are in the very early conceptual phase, soliciting initial feedback on broad design principles. No vocabulary or grammar rules are set yet.
+
+## Getting Involved
+
+Provide suggestions on:
+
+- Important concepts/ideas to include from your culture or language
+- Feedback on inclusive terminology
+- Potential biases to avoid
+- Ways to structure future collaboration
+- Areas to prioritize as we develop alpha resources
+
+You can also help by translating this initial documentation to other languages to expand our reach.
+
+## Next Steps
+
+Based on community input we will begin:
+
+- Drafting core vocabulary concepts
+- Proposing initial phonemic spelling and pronunciation rules
+- Developing processes for ongoing contribution and decision making
+- Translating key documents and launching multilingual discussion forums
+
+Please open new issues with any other thoughts or questions as we refine this project together. Our goal is creating the most globally inclusive language possible!
 
 ## words
-initial word list for the universalLanguage project:
+initial word list for the universalLanguage project?
 
 Numbers:
 * wa (one)
